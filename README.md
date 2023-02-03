@@ -7,6 +7,7 @@ Your client is an Insurance company that has provided Health Insurance to its cu
 
 
 Conclusion:
+
 1.Customers of age between 30 to 60 are more likely to buy insurance.
 
 2.Customers with Driving License have higher chance of buying Insurance.
